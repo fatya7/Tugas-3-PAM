@@ -1,4 +1,4 @@
 # Tugas 3 PAM
-## Iqbal Alfarizi
-## 120140122
+## Fatya Asti Utami
+## 120140055
 ## PAM RA
